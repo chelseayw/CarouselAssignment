@@ -38,4 +38,4 @@ Which required and optional stories have you completed? All project requirements
 
   * User can log out.
   
-![Alt text](https://raw.githubusercontent.com/chelseayw/DropboxAssignment/master/DropboxAssignment_Chelsea.gif)
+![Alt text](insert link here)
