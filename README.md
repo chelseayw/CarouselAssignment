@@ -38,4 +38,4 @@ Which required and optional stories have you completed? All project requirements
 
   * User can log out.
   
-![Alt text](insert link here)
+![Alt text](https://raw.githubusercontent.com/chelseayw/CarouselAssignment/master/CarouselAssignment.gif)
